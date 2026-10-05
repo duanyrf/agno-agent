@@ -3,3 +3,6 @@
 __pycache__/
 *.py[cod]
 data/
+
+# Arquivos ainda não liberados para os alunos
+despensa_agent.py
